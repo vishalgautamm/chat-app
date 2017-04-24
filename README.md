@@ -40,6 +40,6 @@ There you are required to provide username and password. Here are sample usernam
     "password": "gautam",
     "admin": true
   }
-].
+]
 
 ```
