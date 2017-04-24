@@ -1,6 +1,6 @@
 # App description
 
-Minimalistic chat applcation using NodeJS and Express framework
+Chat applcation using NodeJS and Express framework
 
 # Instructions
 
